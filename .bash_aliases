@@ -1,6 +1,9 @@
 alias 速冻="sudo"
 alias 擦头="cat"
 alias 恶臭="echo"
+alias 擦电="cd"
+alias 历史="ls"
+alias 苏="su"
 
 
 alias 那屏幕="npm"
