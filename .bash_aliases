@@ -4,7 +4,7 @@ alias 恶臭="echo"
 alias 擦电="cd"
 alias 历史="ls"
 alias 苏="su"
-alias 。、="./"
+// alias 。、="./"
 
 alias 那屏幕="npm"
 alias 那匹马="npm"
